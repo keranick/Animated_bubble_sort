@@ -41,4 +41,6 @@ def get_list():
 
 
 sort_list = get_list()
+
 bubble_sort_animation(sort_list)
+input()
